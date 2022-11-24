@@ -1,4 +1,4 @@
-# birthday_app (master branche)
+# birthday_app (master branch)
 
 A new Flutter project.
 
